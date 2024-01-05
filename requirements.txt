@@ -1,0 +1,2 @@
+pycryptodomex==3.19.0
+pywin32==306
